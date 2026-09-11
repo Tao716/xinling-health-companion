@@ -198,7 +198,15 @@ resonant-soul/
 - 五项情绪状态自评仅用于产品演示和自我观察，不是标准 SAS 或其他临床量表。
 
 
-## 开源许可
+## 项目来源与致谢
 
-当前仓库尚未包含明确的 `LICENSE` 文件。在获得许可方确认前，请勿默认将项目用于商业分发或二次授权。正式公开发布时，建议由项目权利人补充合适的开源许可证。
+本项目基于开源项目 [datawhalechina/resonant-soul](https://github.com/datawhalechina/resonant-soul) 二次开发，在其基础上完成了界面、用户系统、情绪记录与自评、放松练习、趋势回顾、管理后台、Docker 部署与自动化测试等方向的迭代。
+
+感谢 Datawhale 及原项目贡献者开放这份工作。上游仓库当前未附带 LICENSE 文件，因此本仓库同样暂不声明开源许可证，请勿默认用于商业分发或二次授权；如需商用，请先与上游权利人确认授权。若后续上游补充许可证，本仓库将同步遵循。
+
+## 关于本项目
+
+- 作者：陶越
+- 定位：毕业设计 / 个人作品，用于展示 AI 情绪陪伴类产品的完整实现与安全边界设计
+- 相关作品：[观象](https://github.com/Tao716/guanxiang)、[飞书会后执行官](https://github.com/Tao716/feishu-hackathon)、[午夜账簿](https://github.com/Tao716/ai-mini-game)
 
